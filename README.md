@@ -8,3 +8,6 @@
 
 ### 3. Create tar.gz package
 `python.exe ./create_tar_gz_package.py`
+
+### 4. Calculate md5 of created package
+`python.exe ./calculate_package_md5.py`
