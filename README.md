@@ -1,5 +1,7 @@
 # Voiceover generator for Xiaomi vacuum cleaner s20+
 
+### 0. create file ./key.json (exported from https://console.cloud.google.com/) with google tts service enabled
+
 ### 1. Generate voice mp3 files using Google TTS
 `python.exe ./generate_tts.py`
 
